@@ -1,0 +1,17 @@
+<resources>
+    <!--
+    TODO: Antes de correr la aplicacion, necesitas una llave para la API de Google Maps.
+
+        Para obtener una, sigue este enlace, sigue las instrucciones y presiona "Create" al final:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=87:A6:FE:2C:E7:29:85:CC:89:62:48:B7:5B:25:67:7F:AF:5A:7D:AD%3Bprueba.miguel.transver
+
+    Tambien puedes agregar tus credenciales a una llave existente, usando esta linea:
+    87:A6:FE:2C:E7:29:85:CC:89:62:48:B7:5B:25:67:7F:AF:5A:7D:AD;
+
+        Ya que tengas tu llave (comienza con "AIza"), reemplaza la cadena "google_maps_key" en este archivo.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyAdEdqXvZeIZP5647ZoPHvXvB0nl4KtkxY
+    </string>
+</resources>

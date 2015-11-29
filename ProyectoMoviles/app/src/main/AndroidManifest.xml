@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yadirafleitas.proyectomoviles" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".PantallaPrincipal" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity_test1"
+            android:label="TEST"
+
+           />
+        <activity android:name=".activity_test2" />
+        <activity android:name=".activity_test3" />
+        <activity android:name=".activity_test4" />
+        <activity android:name=".activity_test5" />
+        <activity android:name=".activity_test6" />
+        <activity android:name=".activity_info_personal" />
+        <activity android:name=".resultado_test" />
+        <activity android:name=".ActivityVideo" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme"
+            android:parentActivityName=".PantallaPrincipal"
+            >
+
+
+        </activity>
+    </application>
+
+</manifest>

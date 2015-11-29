@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datos>
+	<registro NOMBRE="Díaz Mirón Las Vegas" SENTIDO="ida" HORARIO="4:45-23:00" IMAGEN="lasvegas" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/vegas_big.jpg"/>
+	<registro NOMBRE="Díaz Mirón Las Vegas" SENTIDO="regreso" HORARIO="4:45-23:00" IMAGEN="lasvegas" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/vegas_big.jpg"/>
+	<registro NOMBRE="Ruta 6" SENTIDO="ida" HORARIO="5:20-22:00" IMAGEN="ruta6" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta6.jpg"/>
+	<registro NOMBRE="Ruta 6" SENTIDO="regreso" HORARIO="5:20-22:00" IMAGEN="ruta6" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta6.jpg"/>
+	<registro NOMBRE="Norte Sur Colinas de Santa Fe" SENTIDO="ida" HORARIO="4:50-22:30" IMAGEN="nortesurcolinasdesantafe" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/nortesurcolinasdesantafe_big.jpg"/>
+	<registro NOMBRE="Norte Sur Colinas de Santa Fe" SENTIDO="regreso" HORARIO="4:50-22:30" IMAGEN="nortesurcolinasdesantafe" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/nortesurcolinasdesantafe_big.jpg"/>
+	<registro NOMBRE="Boca del Río Penacho" SENTIDO="ida" HORARIO="5:45-23:00" IMAGEN="boca_penacho" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/boca_penacho_big.jpg"/>
+	<registro NOMBRE="Boca del Río Penacho" SENTIDO="regreso" HORARIO="5:45-23:00" IMAGEN="boca_penacho" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/boca_penacho_big.jpg"/>
+	<registro NOMBRE="Miguel Alemán" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="miguelaleman" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/miguelaleman_big.jpg"/>
+	<registro NOMBRE="Miguel Alemán" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="miguelaleman" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/miguelaleman_big.jpg"/>
+	<registro NOMBRE="Palmitas Puente" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="palmitaspuente" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/palmitas_big.jpg"/>
+	<registro NOMBRE="Palmitas Puente" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="palmitaspuente" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/palmitas_big.jpg"/>
+	<registro NOMBRE="Norte Sur Oasis" SENTIDO="ida" HORARIO="5:00-22:30" IMAGEN="norte_oasis" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/norte_oasis_big.jpg"/>
+	<registro NOMBRE="Norte Sur Oasis" SENTIDO="regreso" HORARIO="5:00-22:30" IMAGEN="norte_oasis" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/norte_oasis_big.jpg"/>
+	<registro NOMBRE="Jamapa" SENTIDO="ida" HORARIO="4:30-23:30" IMAGEN="jamapa" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/jamapa_big.jpg"/>
+	<registro NOMBRE="Jamapa" SENTIDO="regreso" HORARIO="4:30-23:30" IMAGEN="jamapa" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/jamapa_big.jpg"/>
+	<registro NOMBRE="Arboledas San Miguel" SENTIDO="ida" HORARIO="4:45-23:00" IMAGEN="arboledassanmiguel" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/arboledassanmiguel_big.jpg"/>
+	<registro NOMBRE="Arboledas San Miguel" SENTIDO="regreso" HORARIO="4:45-23:00" IMAGEN="arboledassanmiguel" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/arboledassanmiguel_big.jpg"/>
+	<registro NOMBRE="Panteón Jardín" SENTIDO="ida" HORARIO="6:00-22:20" IMAGEN="panteonjardin" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/panteonjardin_big.jpg"/>
+	<registro NOMBRE="Panteón Jardín" SENTIDO="regreso" HORARIO="6:00-22:20" IMAGEN="panteonjardin" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/panteonjardin_big.jpg"/>
+	<registro NOMBRE="Boca del Río Petrolera" SENTIDO="ida" HORARIO="5:45-23:00" IMAGEN="bocadelriopetrolera" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bocadelriopetrolera_big.jpg"/>
+	<registro NOMBRE="Boca del Río Petrolera" SENTIDO="regreso" HORARIO="5:45-23:00" IMAGEN="bocadelriopetrolera" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bocadelriopetrolera_big.jpg"/>
+	<registro NOMBRE="Díaz Mirón Floresta" SENTIDO="ida" HORARIO="6:00-20:30" IMAGEN="diazmironfloresta" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/diazmironfloresta_big.jpg"/>
+	<registro NOMBRE="Díaz Mirón Floresta" SENTIDO="regreso" HORARIO="6:00-20:30" IMAGEN="diazmironfloresta" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/diazmironfloresta_big.jpg"/>
+	<registro NOMBRE="Norte Sur Lomas 4" SENTIDO="ida" HORARIO="4:45-22:30" IMAGEN="nortesurlomas4" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/nortesurlomas4_big.jpg"/>
+	<registro NOMBRE="Norte Sur Lomas 4" SENTIDO="regreso" HORARIO="4:45-22:30" IMAGEN="nortesurlomas4" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/nortesurlomas4_big.jpg"/>
+	<registro NOMBRE="Chapultepec Américas" SENTIDO="ida" HORARIO="5:00-22:30" IMAGEN="chapultepecamericas" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/chapultepecamericas_big.jpg"/>
+	<registro NOMBRE="Chapultepec Américas" SENTIDO="regreso" HORARIO="5:00-22:30" IMAGEN="chapultepecamericas" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/chapultepecamericas_big.jpg"/>
+	<registro NOMBRE="Chapultepec Centro" SENTIDO="ida" HORARIO="5:00-22:30" IMAGEN="chapultepeccentro" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/chapultepeccentro_big.jpg"/>
+	<registro NOMBRE="Chapultepec Centro" SENTIDO="regreso" HORARIO="5:00-22:30" IMAGEN="chapultepeccentro" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/chapultepeccentro_big.jpg"/>
+	<registro NOMBRE="Galas Matamoros" SENTIDO="ida" HORARIO="5:10-21:20" IMAGEN="galasmatamoros" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/galasmatamoros_big.jpg"/>
+	<registro NOMBRE="Galas Matamoros" SENTIDO="regreso" HORARIO="5:10-21:20" IMAGEN="galasmatamoros" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/galasmatamoros_big.jpg"/>
+	<registro NOMBRE="Reserva 2 y 3" SENTIDO="ida" HORARIO="4:45-22:30" IMAGEN="reserva2y3" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/reserva2y3_big.jpg"/>
+	<registro NOMBRE="Reserva 2 y 3" SENTIDO="regreso" HORARIO="4:45-22:30" IMAGEN="reserva2y3" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/reserva2y3_big.jpg"/>
+	<registro NOMBRE="Revolución" SENTIDO="ida" HORARIO="5:45-21:20" IMAGEN="revolucion" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/revolucion_big.jpg"/>
+	<registro NOMBRE="Revolución" SENTIDO="regreso" HORARIO="5:45-21:20" IMAGEN="revolucion" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/revolucion_big.jpg"/>
+	<registro NOMBRE="Ruta 85" SENTIDO="ida" HORARIO="5:45-22:00" IMAGEN="ruta85" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta85_big.jpg"/>
+	<registro NOMBRE="Ruta 85" SENTIDO="regreso" HORARIO="5:45-22:00" IMAGEN="ruta85" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta85_big.jpg"/>
+	<registro NOMBRE="Mozambique" SENTIDO="ida" HORARIO="5:00-20:00" IMAGEN="mozambique" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/mozambique_big.jpg"/>
+	<registro NOMBRE="Mozambique" SENTIDO="regreso" HORARIO="5:00-20:00" IMAGEN="mozambique" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/mozambique_big.jpg"/>
+	<registro NOMBRE="Comercial Mexicana" SENTIDO="ida" HORARIO="5:45-21:40" IMAGEN="comercialmexicana" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/comercialmexicana_big.jpg"/>
+	<registro NOMBRE="Comercial Mexicana" SENTIDO="regreso" HORARIO="5:45-21:40" IMAGEN="comercialmexicana" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/comercialmexicana_big.jpg"/>
+	<registro NOMBRE="Alcocer Mata de Pita" SENTIDO="ida" HORARIO="5:20-22:30" IMAGEN="alcocermatadepita" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/alcocermatadepita_big.jpg"/>
+	<registro NOMBRE="Alcocer Mata de Pita" SENTIDO="regreso" HORARIO="5:20-22:30" IMAGEN="alcocermatadepita" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/alcocermatadepita_big.jpg"/>
+	<registro NOMBRE="Quinta Etapa" SENTIDO="ida" HORARIO="5:00-21:30" IMAGEN="quintaetapa" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/5aetapa_big.jpg"/>
+	<registro NOMBRE="Quinta Etapa" SENTIDO="regreso" HORARIO="5:00-21:30" IMAGEN="quintaetapa" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/5aetapa_big.jpg"/>
+	<registro NOMBRE="Ruta 27" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="ruta27" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta27_big.jpg"/>
+	<registro NOMBRE="Ruta 27" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="ruta27" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta27_big.jpg"/>
+	<registro NOMBRE="Lagos de Puente Moreno" SENTIDO="ida" HORARIO="5:00-23:00" IMAGEN="lagosdepuentemoreno" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/lagosdepuentemoreno_big.jpg"/>
+	<registro NOMBRE="Lagos de Puente Moreno" SENTIDO="regreso" HORARIO="5:00-23:00" IMAGEN="lagosdepuentemoreno" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/lagosdepuentemoreno_big.jpg"/>
+	<registro NOMBRE="Saeta" SENTIDO="ida" HORARIO="5:00-23:00" IMAGEN="saeta" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/saeta_big.jpg"/>
+	<registro NOMBRE="Saeta" SENTIDO="regreso" HORARIO="5:00-23:00" IMAGEN="saeta" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/saeta_big.jpg"/>
+	<registro NOMBRE="Bolívar Campanario" SENTIDO="ida" HORARIO="5:30-20:20" IMAGEN="bolivarcampanario" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bolivarcampanario_big.jpg"/>
+	<registro NOMBRE="Bolívar Campanario" SENTIDO="regreso" HORARIO="5:30-20:20" IMAGEN="bolivarcampanario" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bolivarcampanario_big.jpg"/>
+	<registro NOMBRE="Bolívar Rosa" SENTIDO="ida" HORARIO="5:00-22:30" IMAGEN="bolivarrosa" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bolivarrosa_big.jpg"/>
+	<registro NOMBRE="Bolívar Rosa" SENTIDO="regreso" HORARIO="5:00-22:30" IMAGEN="bolivarrosa" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bolivarrosa_big.jpg"/>
+	<registro NOMBRE="Bajadas Centro" SENTIDO="ida" HORARIO="5:30-22:00" IMAGEN="bajadascentro" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bajadascentro_big.jpg"/>
+	<registro NOMBRE="Bajadas Centro" SENTIDO="regreso" HORARIO="5:30-22:00" IMAGEN="bajadascentro" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bajadascentro_big.jpg"/>
+	<registro NOMBRE="Polvorín" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="polvorin" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/polvorin_big.jpg"/>
+	<registro NOMBRE="Polvorín" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="polvorin" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/polvorin_big.jpg"/>
+	<registro NOMBRE="Bolívar Lomas 4" SENTIDO="ida" HORARIO="5:00-23:00" IMAGEN="bolivarlomas4" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bolivarlomas4_big.jpg"/>
+	<registro NOMBRE="Bolívar Lomas 4" SENTIDO="regreso" HORARIO="5:00-23:00" IMAGEN="bolivarlomas4" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bolivarlomas4_big.jpg"/>
+	<registro NOMBRE="Reserva 1" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="reserva1" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/reserva1_big.jpg"/>
+	<registro NOMBRE="Reserva 1" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="reserva1" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/reserva1_big.jpg"/>
+	<registro NOMBRE="Vía Muerta Morro" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="viamuertamorro" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/viamuertamorro_big.jpg"/>
+	<registro NOMBRE="Vía Muerta Morro" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="viamuertamorro" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/viamuertamorro_big.jpg"/>
+	<registro NOMBRE="Manantial" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="manantial" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/manantial_big.jpg"/>
+	<registro NOMBRE="Manantial" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="manantial" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/manantial_big.jpg"/>
+	<registro NOMBRE="Volcanes" SENTIDO="ida" HORARIO="5:45-22:15" IMAGEN="volcanes" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/volcanes_big.jpg"/>
+	<registro NOMBRE="Volcanes" SENTIDO="regreso" HORARIO="5:45-22:15" IMAGEN="volcanes" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/volcanes_big.jpg"/>
+	<registro NOMBRE="Galas Villa Rica" SENTIDO="ida" HORARIO="5:30-21:15" IMAGEN="galasvillarica" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/galasvillarica_big.jpg"/>
+	<registro NOMBRE="Galas Villa Rica" SENTIDO="regreso" HORARIO="5:30-21:15" IMAGEN="galasvillarica" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/galasvillarica_big.jpg"/>
+	<registro NOMBRE="Calle 12" SENTIDO="ida" HORARIO="5:00-21:30" IMAGEN="calle12" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/calle12_big.jpg"/>
+	<registro NOMBRE="Calle 12" SENTIDO="regreso" HORARIO="5:00-21:30" IMAGEN="calle12" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/calle12_big.jpg"/>
+	<registro NOMBRE="Bolívar Rojo" SENTIDO="ida" HORARIO="5:50-22:30" IMAGEN="bolivarrojo" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bolivarrojo_big.jpg"/>
+	<registro NOMBRE="Bolívar Rojo" SENTIDO="regreso" HORARIO="5:50-22:30" IMAGEN="bolivarrojo" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bolivarrojo_big.jpg"/>
+	<registro NOMBRE="Norte Sur Lomas 2 y 3" SENTIDO="ida" HORARIO="5:00-22:15" IMAGEN="nortesurlomas2y3" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/nortesurlomas2y3_big.jpg"/>
+	<registro NOMBRE="Norte Sur Lomas 2 y 3" SENTIDO="regreso" HORARIO="5:00-22:15" IMAGEN="nortesurlomas2y3" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/nortesurlomas2y3_big.jpg"/>
+	<registro NOMBRE="Playa Villa del Mar" SENTIDO="ida" HORARIO="5:30-21:00" IMAGEN="playavilladelmar" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/playavilladelmar_big.jpg"/>
+	<registro NOMBRE="Playa Villa del Mar" SENTIDO="regreso" HORARIO="5:30-21:00" IMAGEN="playavilladelmar" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/playavilladelmar_big.jpg"/>
+	<registro NOMBRE="Boticaria Ylang" SENTIDO="ida" HORARIO="5:00-21:00" IMAGEN="boticariaylang" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/boticariaylang_big.jpg"/>
+	<registro NOMBRE="Boticaria Ylang" SENTIDO="regreso" HORARIO="5:00-21:00" IMAGEN="boticariaylang" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/boticariaylang_big.jpg"/>
+	<registro NOMBRE="La Fragua" SENTIDO="ida" HORARIO="5:00-21:00" IMAGEN="lafragua" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/lafragua_big.jpg"/>
+	<registro NOMBRE="La Fragua" SENTIDO="regreso" HORARIO="5:00-21:00" IMAGEN="lafragua" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/lafragua_big.jpg"/>
+	<registro NOMBRE="Pochota" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="pochota" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/pochota_big.jpg"/>
+	<registro NOMBRE="Pochota" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="pochota" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/pochota_big.jpg"/>
+	<registro NOMBRE="Carranza Puente" SENTIDO="ida" HORARIO="4:50-23:00" IMAGEN="carranzapuente" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/carranzapuente_big.jpg"/>
+	<registro NOMBRE="Carranza Puente" SENTIDO="regreso" HORARIO="4:50-23:00" IMAGEN="carranzapuente" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/carranzapuente_big.jpg"/>
+	<registro NOMBRE="Chiveria Laguna" SENTIDO="ida" HORARIO="4:45-22:30" IMAGEN="chiverialaguna" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/chiverialaguna_big.jpg"/>
+	<registro NOMBRE="Chiveria Laguna" SENTIDO="regreso" HORARIO="4:45-22:30" IMAGEN="chiverialaguna" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/chiverialaguna_big.jpg"/>
+	<registro NOMBRE="Costera Geo 1 y 2" SENTIDO="ida" HORARIO="4:45-22:00" IMAGEN="costerageo1y2" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/costerageo1y2_big.jpg"/>
+	<registro NOMBRE="Costera Geo 1 y 2" SENTIDO="regreso" HORARIO="4:45-22:00" IMAGEN="costerageo1y2" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/costerageo1y2_big.jpg"/>
+	<registro NOMBRE="Anton Lizardo" SENTIDO="ida" HORARIO="4:45-22:00" IMAGEN="antonlizardo" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/antonlizardo_big.jpg"/>
+	<registro NOMBRE="Anton Lizardo" SENTIDO="regreso" HORARIO="4:45-22:00" IMAGEN="antonlizardo" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/antonlizardo_big.jpg"/>
+	<registro NOMBRE="Colinas de Santa Fe" SENTIDO="ida" HORARIO="4:45-22:15" IMAGEN="colinasdesantafe" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/colinasdesantafe_big.jpg"/>
+	<registro NOMBRE="Colinas de Santa Fe" SENTIDO="regreso" HORARIO="4:45-22:15" IMAGEN="colinasdesantafe" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/colinasdesantafe_big.jpg"/>
+	<registro NOMBRE="Dos Caminos" SENTIDO="ida" HORARIO="5:55-21:00" IMAGEN="doscaminos" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/doscaminose_big.jpg"/>
+	<registro NOMBRE="Dos Caminos" SENTIDO="regreso" HORARIO="5:55-21:00" IMAGEN="doscaminos" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/doscaminos_big.jpg"/>
+	<registro NOMBRE="Costera Lomas 2 y 3" SENTIDO="ida" HORARIO="5:00-22:30" IMAGEN="costeralomas2y3" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/costeralomas2y3_big.jpg"/>
+	<registro NOMBRE="Costera Lomas 2 y 3" SENTIDO="regreso" HORARIO="5:00-22:30" IMAGEN="costeralomas2y3" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/costeralomas2y3_big.jpg"/>
+	<registro NOMBRE="Ortiz Rubio Vista Mar" SENTIDO="ida" HORARIO="4:50-20:00" IMAGEN="ortizrubiovistamar" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ortizrubiovistamar_big.jpg"/>
+	<registro NOMBRE="Ortiz Rubio Vista Mar" SENTIDO="regreso" HORARIO="4:50-20:00" IMAGEN="ortizrubiovistamar" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ortizrubiovistamar_big.jpg"/>
+	<registro NOMBRE="Ruta 4" SENTIDO="ida" HORARIO="5:00-22:30" IMAGEN="ruta4" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta4_big.jpg"/>
+	<registro NOMBRE="Ruta 4" SENTIDO="regreso" HORARIO="5:00-22:30" IMAGEN="ruta4" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta4_big.jpg"/>
+	<registro NOMBRE="Ortiz Rubio Sur" SENTIDO="ida" HORARIO="4:50-22:00" IMAGEN="ortizrubiosur" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ortizrubiosur_big.jpg"/>
+	<registro NOMBRE="Ortiz Rubio Sur" SENTIDO="regreso" HORARIO="4:50-22:00" IMAGEN="ortizrubiosur" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ortizrubiosur_big.jpg"/>
+	<registro NOMBRE="Ruta 7" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="ruta7" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta7_big.jpg"/>
+	<registro NOMBRE="Ruta 7" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="ruta7" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta7_big.jpg"/>
+	<registro NOMBRE="Ruta 13" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="ruta13" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta13_big.jpg"/>
+	<registro NOMBRE="Ruta 13" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="ruta13" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/ruta13_big.jpg"/>
+	<registro NOMBRE="Santa Fe" SENTIDO="ida" HORARIO="4:45-22:00" IMAGEN="santafe" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/santafe_big.jpg"/>
+	<registro NOMBRE="Santa Fe" SENTIDO="regreso" HORARIO="4:45-22:00" IMAGEN="santafe" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/santafe_big.jpg"/>
+	<registro NOMBRE="Bajadas Boticaria" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="bajadasboticaria" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bajadasboticaria_big.jpg"/>
+	<registro NOMBRE="Bajadas Boticaria" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="bajadasboticaria" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/bajadasboticaria_big.jpg"/>
+	<registro NOMBRE="Chiveria Arista" SENTIDO="ida" HORARIO="5:00-22:00" IMAGEN="chiveriaarista" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/chiveriaarista_big.jpg"/>
+	<registro NOMBRE="Chiveria Arista" SENTIDO="regreso" HORARIO="5:00-22:00" IMAGEN="chiveriaarista" IMAGEN_ONLINE="https://dl.dropboxusercontent.com/u/86896449/Transver/chiveriaarista_big.jpg"/>
+</datos>

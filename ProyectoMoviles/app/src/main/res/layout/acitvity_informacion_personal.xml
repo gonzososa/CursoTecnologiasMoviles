@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/status_bar_height"
+        android:background="?colorPrimary"/>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:theme="@style/ToolbarTheme" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="4.13">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+    <TextView
+
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ya casi terminamos..."
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        />
+
+            <EditText
+        android:id="@+id/IP1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+                android:ems="10"
+                android:hint="nombre"
+                android:textColor="@android:color/black"
+
+            />
+
+            <EditText
+        android:id="@+id/IP2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+                android:hint="Edad"
+        />
+
+            <EditText
+        android:id="@+id/IP3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+                android:hint="Peso(kg)"
+        />
+
+            <EditText
+        android:id="@+id/IP4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+                android:hint="Altura"
+        />
+    <Button
+        android:id="@+id/botonIP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|bottom"
+        android:layout_marginBottom="20dp"
+        android:text="Empezar!"
+
+        />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Transver</string>
+    <string name="rutas">Rutas</string>
+    <string name="mapa">Mapa</string>
+    <string name="acerca">Acerca</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="accion_ajustes">Ajustes</string>
+    <string name="action_search">Búsqueda</string>
+    <string name="title_activity_mapa_fragment">Mapa</string>
+    <string name="horario">"Horario: "</string>
+    <string name="origen">"Origen"</string>
+    <string name="destino">"Destino"</string>
+    <string name="rutas_cercanas">"Buscar rutas cercanas"</string>
+    <string name="resultados">" rutas cercanas"</string>
+    <string name="titulo_dialogo">Usar este punto para: </string>
+    <string name="title_activity_acerca">Acerca</string>
+
+    <string-array name="lista_mapa">
+        <item>@string/origen</item>
+        <item>@string/destino</item>
+        <item>@string/rutas_cercanas</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

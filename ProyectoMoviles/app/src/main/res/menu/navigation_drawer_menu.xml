@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/item_navigation_drawer_inicio"
+            android:icon="@drawable/ic_inbox_black_24dp"
+            android:title="Inicio" />
+        <item
+
+            android:id="@+id/item_navigation_drawer_inbox"
+            android:icon="@drawable/ic_inbox_black_24dp"
+            android:title="Perfil" />
+        <item
+            android:id="@+id/item_navigation_drawer_starred"
+            android:icon="@drawable/ic_action_toggle_star"
+            android:title="Calendario" />
+        <item
+            android:id="@+id/item_navigation_drawer_sent_mail"
+            android:icon="@drawable/ic_action_content_send"
+            android:title="Avance" />
+
+    </group>
+
+    <item android:title="Subheader">
+        <menu>
+            <item
+                android:id="@+id/item_navigation_drawer_settings"
+                android:icon="@drawable/ic_action_content_mail"
+                android:title="Ajustes" />
+            <item
+                android:id="@+id/item_navigation_drawer_help_and_feedback"
+                android:icon="@drawable/ic_action_action_delete"
+                android:title="Ayuda" />
+        </menu>
+    </item>
+
+</menu>
+ 

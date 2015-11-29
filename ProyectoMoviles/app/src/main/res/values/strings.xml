@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">ProyectoMoviles</string>
+    <string name="test_name">TEST</string>
+
+    <!--**********************************Preguntas Del test*******************************************************-->
+
+    <string name="p1">¿Qué tan flexible eres? Agáchate e  intenta tocar el suelo con las manos sin doblar las rodillas.</string>
+
+    <string name="r1_1">Mis manos solo llegan a las rodillas.</string>
+    <string name="r1_2">Mis manos tocan los dedos de los pies.</string>
+    <string name="r1_3">Llego a tocar el suelo, sin esfuerzo.</string>
+
+
+    <string name="p2">Al subir las escaleras de la escuela, casa o trabajo sin descansar, usted:</string>v
+
+    <string name="r2_1">No puedo ni  respirar, menos articular palabra.</string>
+    <string name="r2_2">Puedo hablar, aunque me falta el aire.</string>
+    <string name="r2_3">No pasa nada. Vuelvo al primer escalón y ahora las subo saltando.</string>
+
+
+    <string name="p3">Cuando te proponen una minicarrerita:</string>
+
+    <string name="r3_1">Tardo más de 3 minutos en llegar.</string>
+    <string name="r3_2">Demoro algunos segundos en pisar la meta.</string>
+    <string name="r3_3">Llego a toda velocidad y les gano a todas mis amigas.</string>
+
+
+    <string name="p4">Hacés deporte…</string>
+
+    <string name="r4_1">Una vez por mes. Algo es algo, ¿no?</string>
+    <string name="r4_2">Dos veces por semana, en las clases de Educación Física.</string>
+    <string name="r4_3">Cuatro días a la semana.</string>
+
+
+
+    <string name="p5">Te desafío a hacer abdominales durante 1 minuto. Tenés que estar en el suelo boca arriba, las piernas semiflexionadas con brazos en la nuca.</string>
+
+    <string name="r5_1">Solo hago cinco.</string>
+    <string name="r5_2">Entre 5 y 10.</string>
+    <string name="r5_3">Más de 10.</string>
+
+
+    <string name="p6">¿Sentís dolor en la espalda baja cuando hacés algún movimiento?</string>
+
+    <string name="r6_1">Sí, sobre todo cuando me agacho a recoger algo del suelo.</string>
+    <string name="r6_2">Solo cuando se me ocurre salir a correr por el parque.</string>
+    <string name="r6_3">Nunca.</string>
+
+
+    <string name="p7">¿Subiste de peso en los últimos meses?</string>
+
+    <string name="r7_1">Sí, más de 10 kilos.</string>
+    <string name="r7_2">Sí, más de cinco kilos.</string>
+    <string name="r7_3">Mi peso es estable, suele variar dos o tres kilos.</string>
+
+    <string name="p8">¿Te levantás cansada, con sueño y sin ganas de hacer nada?</string>
+
+    <string name="r8_1">¿Cómo adivinaste?</string>
+    <string name="r8_2">Casi siempre.</string>
+    <string name="r8_3">Muy rara vez.</string>
+
+
+    <string name="p9">¿Sentís pesado tu cuerpo como si cargaras una bolsa de papas?</string>
+
+    <string name="r9_1">Todo el tiempo.</string>
+    <string name="r9_2">A veces.</string>
+    <string name="r9_3">Nunca, ¡tengo energía de sobra!</string>
+
+
+    <string name="p10">¿Te cuesta concentrarte a lo largo del día?</string>
+
+    <string name="r10_1">Sí, tengo que anotar la tarea, porque soy muy distraída.</string>
+    <string name="r10_2">No resuelvo en minutos las operaciones matemáticas, pero me defiendo.</string>
+    <string name="r10_3">Yo confío en mi poder de concentración y buena memoria todo el tiempo.</string>
+
+
+
+    <string name="p11">¿Vas caminando a la escuela?</string>
+
+    <string name="r11_1">¡Nooo! Es malo para mi salud.</string>
+    <string name="r11_2">A veces me lleva mi papá en auto, otras camino.</string>
+    <string name="r11_3">Llego en bici.</string>
+
+
+
+    <string name="p12">¿Pensás que tu alimentación se refleja en tu salud?</string>
+
+    <string name="r12_1">No me había puesto a pensar en eso, con razón siempre me enfermo del estómago, como muchas porquerías.</string>
+    <string name="r12_2">Cada vez que voy a control, el doctor me recomienda comer frutas y verduras, ¡le voy a hacer caso!</string>
+    <string name="r12_3">Yo pienso que sí, por eso siempre trato de comer saludable.</string>
+    <string name="btsig">Siguiente</string>
+    <string name="portada1">portada</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+  <string  name="action_settings">Settings</string>
+
+
+
+
+    <!---->
+
+</resources>
